@@ -16,9 +16,9 @@ export const navLinks = [
 ];
 
 export const statistics = [
-  { value: "1k+", label: "Brands" },
-  { value: "500+", label: "Shops" },
-  { value: "250k+", label: "Customers" },
+  { id: 1, value: "1k+", label: "Brands" },
+  { id: 2, value: "500+", label: "Shops" },
+  { id: 3, value: "250k+", label: "Customers" },
 ];
 
 export const services = [
